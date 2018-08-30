@@ -39,14 +39,14 @@ $black: #000000;
 // BACKGROUND COLORS
 ////////////////////
 $nav-bg: $white;
-$examples-bg: #2b4c56;
+$examples-bg: #3c4246; // main part 
 $code-bg: $tg-slate;
-$code-annotation-bg: #244048;
+$code-annotation-bg: #0e0f10;
 $search-highlight: rgba($tg-bermuda-green, .3);
 $nav-subitem-bg: #fff;
 $lang-select-border: #000;
 $lang-select-bg: #222;
-$lang-select-active-bg: #f6574d; // feel free to change this to blue or something
+$lang-select-active-bg: #d7e62e; // feel free to change this to blue or something
 $lang-select-pressed-bg: $code-annotation-bg; // color of language tab bg when mouse is pressed
 $main-bg: $white;
 $aside-notice-bg: #429BCE;
@@ -63,9 +63,9 @@ $nav-active-text: $main-text;
 $nav-footer-text: $base-grey-70;
 $content-link: $tg-green;
 $content-link-hover: $tg-dark-green;
-$code: $tg-red;
+$code: $tg-grey;
 $lang-select-text: $white; // color of unselected language tab text
-$lang-select-active-text: $white; // color of selected language tab text
+$lang-select-active-text: $black; // color of selected language tab text
 $lang-select-pressed-text: $white; // color of language tab text when mouse is pressed
 
 
